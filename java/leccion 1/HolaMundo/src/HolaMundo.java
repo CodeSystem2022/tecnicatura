@@ -388,9 +388,6 @@ public class HolaMundo {
         solicionaAritmetica = (4 +5) * 6 /3; // 18
         System.out.println("solicionaAritmetica = " + solicionaAritmetica);
         
-
-         
-        
-    
+  
     }
 }
