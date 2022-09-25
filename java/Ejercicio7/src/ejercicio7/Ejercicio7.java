@@ -32,7 +32,7 @@ public class Ejercicio7 {
         nombreVendedor = entrada.nextLine();
         System.out.println("Digite la cantidad de autos vendidos: ");
         cantAutosVendidos = Integer.parseInt(entrada.nextLine());
-        System.out.println("Digite el valor de de un auto: ");
+        System.out.println("Digite el valor de un auto: ");
         precioAuto = Float.parseFloat(entrada.nextLine());
         
         comision = comision*cantAutosVendidos;
