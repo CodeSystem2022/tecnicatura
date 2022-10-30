@@ -12,10 +12,10 @@ public class Ejercicio08 {
         int numero = Integer.parseInt(JOptionPane.showInputDialog("Digite un numero"));
         int i = 1;
         while (i <= numero) {
-        JoptionPane.showmessageDialog(null, i);
+          JoptionPane.showmessageDialog(null, i);
         i++;
         
     }
     }
-    
+
 }
